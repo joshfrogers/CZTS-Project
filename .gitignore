@@ -28,7 +28,7 @@
 
 
 #PDF#
-.pdf
+*.pdf
 
 # OS generated files #
 ######################
@@ -40,3 +40,4 @@
 ehthumbs.db
 Thumbs.db
 
+*.ini
