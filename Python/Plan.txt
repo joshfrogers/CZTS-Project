@@ -1,0 +1,9 @@
+Take In a CSV,
+	Read titles (Elements)
+	Read Triplet Pairs
+	First pair is start pair
+	second is end pair
+
+Produce ternary plot
+add axis titles
+add lines to the plot
