@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1386605502 "Interim.tex" "Interim.pdf" "Interim" 1386605503
+["pdflatex"] 1388939613 "Interim.tex" "Interim.pdf" "Interim" 1388939614
   "/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty" 1338332114 189108 8b3553a56c83ff61acecb36b75d817e2 ""
@@ -45,14 +45,13 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty" 1324083561 37083 54a2e11f0f208916a9976d9e4837d144 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/tools/multicol.sty" 1312409015 26766 56c30c5bea3083b5a0d6fc2ce0063096 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
-  "Interim.aux" 1386605503 1402 01964ccefa696514c0215a5bb7ac2ac3 ""
-  "Interim.out" 1386605503 302 b80d3e5e100053b48e7649ed8176694e ""
-  "Interim.tex" 1386604946 4642 a69ebb4a040b99446a07bb873a524fdd ""
-  "tex/abstract.tex" 1386599551 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "tex/discussion.tex" 1386599771 106 fce77de5ffe42fab8fcba3e3bd231890 ""
-  "tex/intro.tex" 1386599559 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "tex/method.tex" 1386605500 2721 8552348e9fec80cb5385c021b92459f6 ""
-  "tex/results.tex" 1386599738 362 35760af7ae1ccd1068a075a5db1b0e83 ""
+  "Interim.aux" 1388939614 1127 fe34ba80ec14de4dd1fac17c6fa60c92 ""
+  "Interim.out" 1388939614 131 c10c9d56e227ae85e0e184774676726f ""
+  "Interim.tex" 1388939345 4661 f2643c09fb310ae26c14ba2543da5fe8 ""
+  "tex/abstract.tex" 1388939483 317 3468871664bc321d8c0a39c6f486d71f ""
+  "tex/intro.tex" 1388410675 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "tex/method.tex" 1388939609 2737 396ffa4fa5523efba0d74d13484417ed ""
+  "tex/results.tex" 1388410675 384 d925d33d731bd1fd1cae63edcc3c3d4d ""
   (generated)
   "Interim.out"
   "Interim.log"
