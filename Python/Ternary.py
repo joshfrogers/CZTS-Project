@@ -89,7 +89,7 @@ class TernaryPlot:#(filename):
         global sqrt
         global len
         self.grid((range(10, 100, 10), range(10, 100, 10), range(10, 100, 10)))
-        p.text(50 - len(labelnames[0]), 90, labelnames[0])
+        p.text(50 - len(labelnames[0]), 88, labelnames[0])
         p.text(len(labelnames[1]) - 10, 0, labelnames[1])
         p.text(100 + len(labelnames[2]), 0, labelnames[2])
 

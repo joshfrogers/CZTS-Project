@@ -38,6 +38,11 @@
 \fancyhead[C]{} % Custom header text
 \fancyfoot[RO,LE]{\thepage} % Custom footer text
 
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{adjustbox}
 %----------------------------------------------------------------------------------------
 %	TITLE SECTION
 %----------------------------------------------------------------------------------------
@@ -75,7 +80,7 @@
 %	ARTICLE CONTENTS
 %----------------------------------------------------------------------------------------
 
-\begin{multicols}{2} % Two-column layout throughout the main article text
+%\begin{multicols}{2} % Two-column layout throughout the main article text
 
 \section{Introduction}
 
@@ -94,6 +99,12 @@
 \input{tex/results}
 
 
+%------------------------------------------------
+
+\section{Appendix}
+
+\input{tex/298K}
+
 %----------------------------------------------------------------------------------------
 %	REFERENCE LIST
 %----------------------------------------------------------------------------------------
@@ -110,6 +121,6 @@ Figueredo, A.~J. and Wolf, P. S.~A. (2009).
 
 %----------------------------------------------------------------------------------------
 
-\end{multicols}
+%\end{multicols}
 
 \end{document}
