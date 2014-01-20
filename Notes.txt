@@ -1,28 +1,2 @@
 Notes
 =====
-
-Intro
--
-
-History of solar cell tech
-->Production and development of said technology over crystal structure
-
-Reasons for drive for new technologies
--> Method of work in solar cells
--> Reasoning for rejected tech, as such req for new tech
-
-History of CZTS - Diff composition, and difficulty in production
-->Compositional problems, identification - Similar crystal structure
--> Advances with CZTS, Efficiency, current technologies
-Possible use cases over trad tech.
-
-PYTHON
-------
-
-Trick is not to attempt to assemble 4 ternary diagrams, but to project our current ones along a third dimension 
-to a point - allowing us to take 'snapshot' ternary diagrams that could occur at various concentrations of a given element.
-
-Knowing that we have Certain tie lines beginning and ending along this projection, allows quick pinpointing of where these 'snapshots' need to be.
-
-METHOD
-------
