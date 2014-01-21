@@ -59,4 +59,12 @@ CSnS.line([34.5,65.5,0],[66.7,0,33.3])
 CSnS.line([33.5,66.5,0],[66.7,0,33.3])
 CSnS.show('triangleplot_CuSnS298')
 
-					
+# Tie Phases
+ZnSSnSCu = TernaryPlot('$ZnS, SnS, Cu$')
+ZnSSnSCu.axistitles(labelnames=['$ZnS$','$SnS$','$Cu$'])
+ZnSSnSCu.show('triangleplot_ZnSSnSCu298')
+
+ZnSSn2S3Cu2S = TernaryPlot('')
+ZnSSn2S3Cu2S.axistitles(labelnames=['$Sn$','$Zn$','$Cu$'])
+ZnSSn2S3Cu2S.show('triangleplot_ZnSSn2S3Cu2S298')
+		

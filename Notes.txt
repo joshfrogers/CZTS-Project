@@ -1,4 +1,43 @@
 Notes
 =====
 
-showing shaun some stuff
+2.3.2 The ternary phase diagram (TPD)
+Such a phase diagram is of course possible for CZTS as well, but since it consists of four
+kinds of atoms this would need a three dimensional diagram. However, one can assume
+that always the right amount of sulphur is in the film as the sulphur is introduced by the
+reactions with the metals and therefore depends on how much of those are present. This
+assumption will be supported by our measurements where all of our samples contained
+≈50% sulphur.
+This reduces the degrees of freedom of the system to three and the phase diagram can
+be simplified to a ternary phase diagram (TPD). In this study the TPD developed by
+Scragg [26] on the basis of comprehensive measurements done by Olekseyuk et al. [27] is
+used. It should be noted that this phase diagram is valid in equilibrium at 400°C. Both is
+strictly speaking not the case for the experiments performed in this work. Anyhow, as
+the sulphurization process used in this work comprised very slow ramping (<0,15°C/s)
+and a long dwell time (2h at 520°C) we assume to have a quasi-equilibrium. Furthermore,
+other experiments at comparable conditions (e.g. [28]) obtained secondary phases that
+are predicted by this phase diagram. Therefore we will use it on a number of occasions,
+mostly just to depict the compositions of the samples (i.e. not taking into account any
+precondition except of having the right amount of sulphur), but partly also to support or
+deduce assumptions concerning composition and secondary phases.
+The ternary phase diagram is shown in Fig. 2.16. As can be seen from the scale this is
+only a part of the whole diagram. In order to provide a better overview and as no samples
+with a metallic ratio outside this section were produced, it will always be shown a zoomed
+in version.
+There are ten fields drawn in the phase diagram. Each field means the presence of CZTS
+plus the one or two secondary phases that are noted. The eleventh region quite in the
+middle (marked with an asterisk) means that only CZTS is supposed to be existing. All
+secondary phases contain sulphur. As a sufficient amount of sulphur is provided during
+the sulphurization process it is assumed that no metallic phases form but only sulfides.
+However, not all secondary phases that have been found in the diverse studies have been
+found by Olekseyuk, probably due to different conditions. One important secondary phase
+that will play a role in this work as well is SnS2. It was for example found by Schurr et
+al. [29] and could be found for films with Sn excess.
+Talking about regions in the phase diagram it is very helpful to divide it into regions
+that are labeled in an unambiguous way and that already indicates which secondary phases
+can be expected. This shall be done according to the notation of Scragg (Fig. 2.17). In
+the Zn-rich region, for example, ZnS is the expected (main) secondary phase formed by
+the excess Zn. The Zn-poor region covers several fields with various possible secondary
+phases. It should be noted that this notation is very clear, but different to the notations
+used in most publications, where for example only Cu-poor and Cu-rich are distinguished
+(e.g. [29]), not taking into account the ratio between the remaining metals.1
