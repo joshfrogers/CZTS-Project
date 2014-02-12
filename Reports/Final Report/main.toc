@@ -1,0 +1,18 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{ii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iii}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{Contents}{iv}{dummy.4}
+\contentsline {chapter}{List of Figures}{v}{dummy.6}
+\contentsline {chapter}{List of Tables}{vi}{dummy.8}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.10}
+\contentsline {section}{\numberline {1.1}Main Section 1}{1}{section.11}
+\contentsline {subsection}{\numberline {1.1.1}Theory}{2}{subsection.12}
+\contentsline {subsection}{\numberline {1.1.2}Subsection 2}{3}{subsection.16}
+\contentsline {section}{\numberline {1.2}Main Section 2}{3}{section.17}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{4}{appendix.18}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{5}{dummy.19}
