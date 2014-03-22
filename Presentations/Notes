@@ -1,0 +1,7 @@
+Notes
+------
+
+Absorption of incident photons to create electron-hole pairs. Electron-hole pairs will generate in the solar cell provided that the incident photon has an energy greater than that of the band gap. However, electrons (in the p-type material), and holes (in the n-type material) are meta-stable and will only exist, on average, for a length of time equal to the minority carrier lifetime before they recombine. If the carrier recombines, then the light-generated electron-hole pair is lost and no current or power can be generated.
+
+Collection of these carriers by the p-n junction prevents this recombination by using a p-n junction to spatially separate the electron and the hole. The carriers are separated by the action of the electric field existing at the p-n junction. If the light-generated minority carrier reaches the p-n junction, it is swept across the junction by the electric field at the junction, where it is now a majority carrier. If the emitter and base of the solar cell are connected together (i.e., if the solar cell is short-circuited), then the light-generated carriers flow through the external circuit.
+
