@@ -1,93 +1,97 @@
-\begin{thebibliography}{12}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{13}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
 
-\bibitem[Morton()]{morton_solar_2006}
-Oliver Morton.
-\newblock Solar energy: Silicon valley sunrise.
-\newblock 443\penalty0 (7107):\penalty0 19--22.
-\newblock ISSN 0028-0836, 1476-4687.
-\newblock \doi{10.1038/443019a}.
+\bibitem[{\citenamefont{Morton}(2006)}]{Morton2006}
+\bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Morton}},
+  \bibinfo{journal}{Nat.} \textbf{\bibinfo{volume}{443}}, \bibinfo{pages}{19}
+  (\bibinfo{year}{2006}), DOI \bibinfo{doi}{10.1038/443019a}.
 
-\bibitem[Mitzi et~al.()Mitzi, Gunawan, Todorov, Wang, and
-  Guha]{mitzi_path_2011}
-David~B. Mitzi, Oki Gunawan, Teodor~K. Todorov, Kejia Wang, and Supratik Guha.
-\newblock The path towards a high-performance solution-processed kesterite
-  solar cell.
-\newblock 95\penalty0 (6):\penalty0 1421--1436.
-\newblock ISSN 09270248.
-\newblock \doi{10.1016/j.solmat.2010.11.028}.
+\bibitem[{\citenamefont{Mitzi et~al.}(2011)\citenamefont{Mitzi, Gunawan, and
+  Todorov}}]{Mitzi2011}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Mitzi}},
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Gunawan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Todorov}},
+  \bibinfo{journal}{\ldots Mater. Sol. Cells} \textbf{\bibinfo{volume}{95}},
+  \bibinfo{pages}{1421} (\bibinfo{year}{2011}), DOI
+  \bibinfo{doi}{10.1016/j.solmat.2010.11.028}.
 
-\bibitem[_ph()]{_photovoltaics_????}
-Photovoltaics - timeline of the history of photovoltaics.
-\newblock URL
-  \url{http://inventors.about.com/od/timelines/a/Photovoltaics.htm}.
+\bibitem[{\citenamefont{Fritts}(1883)}]{Fritts1883}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Fritts}}, \bibinfo{journal}{Am.
+  J. Sci.} \textbf{\bibinfo{volume}{Series 3 V}}, \bibinfo{pages}{465}
+  (\bibinfo{year}{1883}), DOI \bibinfo{doi}{10.2475/ajs.s3-26.156.465}.
 
-\bibitem[Fritts()]{fritts_new_1883}
-C.~E. Fritts.
-\newblock On a new form of selenium cell, and some electrical discoveries made
-  by its use.
-\newblock Series 3 Vol. 26\penalty0 (156):\penalty0 465--472.
-\newblock \doi{10.2475/ajs.s3-26.156.465}.
+\bibitem[{\citenamefont{Green}(2009)}]{Green2009a}
+\bibinfo{author}{\bibfnamefont{M.~A.} \bibnamefont{Green}},
+  \bibinfo{journal}{Prog. Photovoltaics Res. Appl.}
+  \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{183} (\bibinfo{year}{2009}),
+  DOI \bibinfo{doi}{10.1002/pip.892}.
 
-\bibitem[Green()]{green_path_2009}
-Martin~A. Green.
-\newblock The path to 25\% silicon solar cell efficiency: History of silicon
-  cell evolution.
-\newblock 17\penalty0 (3):\penalty0 183--189.
-\newblock ISSN 1099-{159X}.
-\newblock \doi{10.1002/pip.892}.
+\bibitem[{\citenamefont{Fraunhofer-Gesellschaft}(2014)}]{Fraunhofer-Gesellschaft2014}
+\bibinfo{author}{\bibnamefont{Fraunhofer-Gesellschaft}},
+  \emph{\bibinfo{title}{{World record solar cell with 44.7\% efficiency}}}
+  (\bibinfo{year}{2014}),
+  \urlprefix\url{http://phys.org/news/2013-09-world-solar-cell-efficiency.html}.
 
-\bibitem[_so({\natexlab{a}})]{_solar_????}
-Solar stocks: Does the punishment fit the crime? ({FSLR}, {SPWRA}, {STP},
-  {JASO}, {TSL}, {LDK}, {TAN)} - 24/7 wall st., {\natexlab{a}}.
-\newblock URL
-  \url{http://247wallst.com/energy-business/2011/10/06/solar-stocks-does-the-punishment-fit-the-crime-fslr-spwra-stp-jaso-tsl-ldk-tan/}.
+\bibitem[{\citenamefont{Ausick}(2014)}]{Ausick2014}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Ausick}},
+  \emph{\bibinfo{title}{{Solar Stocks: Does the Punishment Fit the Crime?
+  (FSLR, SPWRA, STP, JASO, TSL, LDK, TAN) - 24/7 Wall St.}}}
+  (\bibinfo{year}{2014}),
+  \urlprefix\url{http://247wallst.com/energy-business/2011/10/06/solar-stocks-does-the-punishment-fit-the-crime-fslr-spwra-stp-jaso-tsl-ldk-tan/}.
 
-\bibitem[_so({\natexlab{b}})]{_solar_????-1}
-Solar cell hits new world record with 44.7 percent efficiency : {TreeHugger},
-  {\natexlab{b}}.
-\newblock URL
-  \url{http://www.treehugger.com/solar-technology/solar-cell-hits-new-world-record.html}.
+\bibitem[{\citenamefont{Wadia}(2009)}]{Wadia2009}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Wadia}},
+  \bibinfo{journal}{Environ. Sci. \ldots} \textbf{\bibinfo{volume}{43}},
+  \bibinfo{pages}{2072} (\bibinfo{year}{2009}), DOI
+  \bibinfo{doi}{10.1021/es8019534}.
 
-\bibitem[_ke()]{_kesterite_????}
-Kesterite mineral data.
-\newblock URL \url{http://webmineral.com/data/Kesterite.shtml#.Ut2bhrTFJhE}.
+\bibitem[{\citenamefont{WebMineral}(2014)}]{WebMineral2014}
+\bibinfo{author}{\bibnamefont{WebMineral}}, \emph{\bibinfo{title}{{Kesterite
+  Mineral Data}}} (\bibinfo{year}{2014}),
+  \urlprefix\url{http://webmineral.com/data/Kesterite.shtml\#.Ut2bhrTFJhE}.
 
-\bibitem[Wang et~al.()Wang, Winkler, Gunawan, Gokmen, Todorov, Zhu, and
-  Mitzi]{wang_device_2013}
-Wei Wang, Mark~T. Winkler, Oki Gunawan, Tayfun Gokmen, Teodor~K. Todorov,
-  Yu~Zhu, and David~B. Mitzi.
-\newblock Device characteristics of {CZTSSe} thin-film solar cells with 12.6\%
-  efficiency.
-\newblock pages n/a--n/a.
-\newblock ISSN 16146832.
-\newblock \doi{10.1002/aenm.201301465}.
+\bibitem[{\citenamefont{Ito and Nakazawa}(1988)}]{Ito1988}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Ito}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Nakazawa}},
+  \bibinfo{journal}{Jpn. J. Appl. Phys.} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{2094} (\bibinfo{year}{1988}), DOI
+  \bibinfo{doi}{10.1143/JJAP.27.2094}.
 
-\bibitem[Olekseyuk et~al.()Olekseyuk, Dudchak, and
-  Piskach]{olekseyuk_phase_2004}
-{I.D.} Olekseyuk, {I.V.} Dudchak, and {L.V.} Piskach.
-\newblock Phase equilibria in the {Cu2S–ZnS–SnS2} system.
-\newblock 368\penalty0 (1):\penalty0 135--143.
-\newblock ISSN 09258388.
-\newblock \doi{10.1016/j.jallcom.2003.08.084}.
+\bibitem[{\citenamefont{Wang and Winkler}(2013)}]{Wang2013}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Wang}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Winkler}},
+  \bibinfo{journal}{Adv. Energy \ldots}  (\bibinfo{year}{2013}), DOI
+  \bibinfo{doi}{10.1002/aenm.201301465}.
 
-\bibitem[{ASM International} et~al.(){ASM International}, {Handbook Committee},
-  and {ASM Alloy Phase Diagram Committee}]{asm_international_asm_1992}
-{ASM International}, {Handbook Committee}, and {ASM Alloy Phase Diagram
-  Committee}.
-\newblock \emph{{ASM} handbook. Volume 3, Volume 3,}.
-\newblock {ASM} International.
-\newblock ISBN 0871703815.
+\bibitem[{\citenamefont{Olekseyuk et~al.}(2004)\citenamefont{Olekseyuk,
+  Dudchak, and Piskach}}]{Olekseyuk2004}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Olekseyuk}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Dudchak}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Piskach}},
+  \bibinfo{journal}{J. Alloys Compd.} \textbf{\bibinfo{volume}{368}},
+  \bibinfo{pages}{135} (\bibinfo{year}{2004}), DOI
+  \bibinfo{doi}{10.1016/j.jallcom.2003.08.084}.
 
-\bibitem[Sharma and Chang()]{sharma_s-zn_1996}
-K.~C. Sharma and Y.~A. Chang.
-\newblock The s-zn (sulfur-zinc) system.
-\newblock 17\penalty0 (3):\penalty0 261--266.
-\newblock ISSN 1054-9714, 1054-9714.
-\newblock \doi{10.1007/BF02648496}.
+\bibitem[{\citenamefont{Hay and Pharr}(2000)}]{Hay2000}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Hay}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Pharr}},
+  \bibinfo{journal}{ASM Int. Mater. Park. OH}  (\bibinfo{year}{2000}).
+
+\bibitem[{\citenamefont{Sharma and Chang}(1996)}]{Sharma1996}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Sharma}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Chang}}, \bibinfo{journal}{J.
+  phase equilibria} \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{261}
+  (\bibinfo{year}{1996}), DOI \bibinfo{doi}{10.1007/BF02648496}.
 
 \end{thebibliography}

@@ -151,7 +151,7 @@
         stringstyle=\color[rgb]{0.7,0,0} }
 \usepackage[pdfpagemode={UseOutlines},bookmarks=true,bookmarksopen=true,
    bookmarksopenlevel=0,bookmarksnumbered=true,hypertexnames=false,
-   colorlinks,linkcolor={blue},citecolor={blue},urlcolor={red},
+   colorlinks,linkcolor={black},citecolor={black},urlcolor={red},
    pdfstartview={FitV},unicode,breaklinks=true]{hyperref}
 \pdfstringdefDisableCommands{
    \let\\\space
@@ -181,7 +181,7 @@
 %	defined as \examname above so you cite it as \examname
 %----------------------------------------------------------------------------------------
 
-\thesistitle{Calculation of the Phase Diagrams of the $Cu_2ZnSnS_4$ System} % Your thesis title - this is used in the title and abstract
+\thesistitle{Calculation of the Phase Diagrams of the Cu$_2$ZnSnS$_4$ System} % Your thesis title - this is used in the title and abstract
 %-------------------------------------------------  
 \supervisor{Dr. Douglas \textsc{Halliday}} % You supervisor's name - this is used in the title page
 %-------------------------------------------------   
@@ -292,17 +292,17 @@
 {
   \btypeout{Abstract Page}
   \thispagestyle{empty}
-  \null\vfil
+  %\null\vfil
   \begin{center}
     \setlength{\parskip}{0pt}
-    {\normalsize \UNIVNAME \par} % University name in capitals
+    %{\normalsize \UNIVNAME \par} % University name in capitals
     \bigskip
     {\huge{\textit{Abstract}} \par}
     \bigskip
-    {\normalsize \facname \par} % Faculty name
-    {\normalsize \deptname \par} % Department name
+    %{\normalsize \facname \par} % Faculty name
+    %{\normalsize \deptname \par} % Department name
     \bigskip
-    {\normalsize \degreename\par} % Degree name
+    %{\normalsize \degreename\par} % Degree name
     \bigskip
     {\normalsize\bf \@title \par} % Thesis title
     \medskip

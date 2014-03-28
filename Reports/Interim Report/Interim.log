@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.19)  22 MAR 2014 16:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.19)  28 MAR 2014 17:12
 entering extended mode
 **Interim
 
@@ -573,7 +573,7 @@ Report\tex/intro.tex" [1
 ]
 ("C:\Users\Administrator\Dropbox\Workspace\Github\CZTS-Project\Reports\Interim 
 Report\tex/method.tex"
-<./img/triangleplot_ZNSNS298-before.png, id=59, 803.0pt x 602.25pt>
+<./img/triangleplot_ZNSNS298-before.png, id=61, 803.0pt x 602.25pt>
 File: ./img/triangleplot_ZNSNS298-before.png Graphic file (type png)
 
 <use ./img/triangleplot_ZNSNS298-before.png>
@@ -583,7 +583,7 @@ ine 23.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 24.
 
-<./img/triangleplot_ZNSNS298.png, id=60, 578.16pt x 433.62pt>
+<./img/triangleplot_ZNSNS298.png, id=62, 578.16pt x 433.62pt>
 File: ./img/triangleplot_ZNSNS298.png Graphic file (type png)
 
 <use ./img/triangleplot_ZNSNS298.png>
@@ -600,7 +600,7 @@ Overfull \hbox (36.9904pt too wide) in paragraph at lines 21--33
 ] [4 <C:/Users/Administrator/Dropbox/Workspace/Github/CZTS-Project/Reports/Inte
 rim Report/img/triangleplot_ZNSNS298-before.png> <C:/Users/Administrator/Dropbo
 x/Workspace/Github/CZTS-Project/Reports/Interim Report/img/triangleplot_ZNSNS29
-8.png>] <./img/triangleplot_ZnSSnSCu298.png, id=82, 578.16pt x 433.62pt>
+8.png>] <./img/triangleplot_ZnSSnSCu298.png, id=84, 578.16pt x 433.62pt>
 File: ./img/triangleplot_ZnSSnSCu298.png Graphic file (type png)
 
 <use ./img/triangleplot_ZnSSnSCu298.png>
@@ -611,14 +611,14 @@ Package pdftex.def Info: ./img/triangleplot_ZnSSnSCu298.png used on input line
 rim Report/img/triangleplot_ZnSSnSCu298.png>]
 ("C:\Users\Administrator\Dropbox\Workspace\Github\CZTS-Project\Reports\Interim 
 Report\tex/results.tex"
-<./img/triangleplot_CUZNS298.png, id=89, 578.16pt x 433.62pt>
+<./img/triangleplot_CUZNS298.png, id=91, 578.16pt x 433.62pt>
 File: ./img/triangleplot_CUZNS298.png Graphic file (type png)
 
 <use ./img/triangleplot_CUZNS298.png>
 Package pdftex.def Info: ./img/triangleplot_CUZNS298.png used on input line 5.
 (pdftex.def)             Requested size: 227.62204pt x 170.71231pt.
 
-<./img/triangleplot_CUZNSN298.png, id=90, 578.16pt x 433.62pt>
+<./img/triangleplot_CUZNSN298.png, id=92, 578.16pt x 433.62pt>
 File: ./img/triangleplot_CUZNSN298.png Graphic file (type png)
 
 <use ./img/triangleplot_CUZNSN298.png>
@@ -626,7 +626,7 @@ Package pdftex.def Info: ./img/triangleplot_CUZNSN298.png used on input line 11
 .
 (pdftex.def)             Requested size: 227.62204pt x 170.71231pt.
 
-<./img/triangleplot_CUSNS298.png, id=91, 578.16pt x 433.62pt>
+<./img/triangleplot_CUSNS298.png, id=93, 578.16pt x 433.62pt>
 File: ./img/triangleplot_CUSNS298.png Graphic file (type png)
 
 <use ./img/triangleplot_CUSNS298.png>
@@ -638,7 +638,7 @@ Overfull \hbox (36.9904pt too wide) in paragraph at lines 3--21
  []$[]$$[]$ 
  []
 
-<./img/ZnSSn2S3Cu2S-general.png, id=93, 803.0pt x 602.25pt>
+<./img/ZnSSn2S3Cu2S-general.png, id=95, 803.0pt x 602.25pt>
 File: ./img/ZnSSn2S3Cu2S-general.png Graphic file (type png)
 
 <use ./img/ZnSSn2S3Cu2S-general.png>
@@ -659,42 +659,42 @@ Report\tex/298K.tex") [8
 ]
 ("C:\Users\Administrator\Dropbox\Workspace\Github\CZTS-Project\Reports\Interim 
 Report\tex/appendix2.tex"
-<./img/CuSAlloyDiag.png, id=114, 1101.11375pt x 837.1275pt>
+<./img/CuSAlloyDiag.png, id=116, 1101.11375pt x 837.1275pt>
 File: ./img/CuSAlloyDiag.png Graphic file (type png)
 
 <use ./img/CuSAlloyDiag.png>
 Package pdftex.def Info: ./img/CuSAlloyDiag.png used on input line 6.
 (pdftex.def)             Requested size: 199.16928pt x 151.41731pt.
 
-<./img/CuSnAlloyDiag.png, id=117, 1122.1925pt x 836.12375pt>
+<./img/CuSnAlloyDiag.png, id=119, 1122.1925pt x 836.12375pt>
 File: ./img/CuSnAlloyDiag.png Graphic file (type png)
 
 <use ./img/CuSnAlloyDiag.png>
 Package pdftex.def Info: ./img/CuSnAlloyDiag.png used on input line 12.
 (pdftex.def)             Requested size: 199.16928pt x 148.39067pt.
 
-<./img/CuZnAlloyDiag.png, id=120, 1107.13625pt x 831.105pt>
+<./img/CuZnAlloyDiag.png, id=122, 1107.13625pt x 831.105pt>
 File: ./img/CuZnAlloyDiag.png Graphic file (type png)
 
 <use ./img/CuZnAlloyDiag.png>
 Package pdftex.def Info: ./img/CuZnAlloyDiag.png used on input line 18.
 (pdftex.def)             Requested size: 199.16928pt x 149.50366pt.
 
-<./img/SnSAlloyDiag.png, id=123, 1088.065pt x 874.26625pt>
+<./img/SnSAlloyDiag.png, id=125, 1088.065pt x 874.26625pt>
 File: ./img/SnSAlloyDiag.png Graphic file (type png)
 
 <use ./img/SnSAlloyDiag.png>
 Package pdftex.def Info: ./img/SnSAlloyDiag.png used on input line 24.
 (pdftex.def)             Requested size: 199.16928pt x 160.02917pt.
 
-<./img/ZnSAlloyDiag.png, id=126, 1449.415pt x 1125.20375pt>
+<./img/ZnSAlloyDiag.png, id=128, 1449.415pt x 1125.20375pt>
 File: ./img/ZnSAlloyDiag.png Graphic file (type png)
 
 <use ./img/ZnSAlloyDiag.png>
 Package pdftex.def Info: ./img/ZnSAlloyDiag.png used on input line 30.
 (pdftex.def)             Requested size: 199.16928pt x 154.60869pt.
 
-<./img/ZnSnAlloyDiag.png, id=129, 1100.11pt x 825.0825pt>
+<./img/ZnSnAlloyDiag.png, id=131, 1100.11pt x 825.0825pt>
 File: ./img/ZnSnAlloyDiag.png Graphic file (type png)
 
 <use ./img/ZnSnAlloyDiag.png>
@@ -711,7 +711,7 @@ dministrator/Dropbox/Workspace/Github/CZTS-Project/Reports/Interim Report/img/Z
 nSnAlloyDiag.png>]
 ("C:\Users\Administrator\Dropbox\Workspace\Github\CZTS-Project\Reports\Interim 
 Report\Interim.bbl"
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 27.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 44.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -720,38 +720,39 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
-[]\T1/pplx/m/n/10.95 (+20) Solar stocks: Does the pun-ish-ment fit the crime? (
-FSLR,
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+[]\T1/pplx/m/n/10.95 (+20) P. Au-sick, \T1/pplx/m/it/10.95 (+20) So-lar Stocks:
+ Does the Pun-ish-ment Fit the Crime?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
-\T1/pplx/m/n/10.95 (+20) SP-WRA, STP, JASO, TSL, LDK, TAN) - 24/7 wall st.,
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+\T1/pplx/m/it/10.95 (+20) (FSLR, SP-WRA, STP, JASO, TSL, LDK, TAN) - 24/7 Wall 
+St.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
-\T1/pplx/m/n/10.95 (+20) .  URL []$\T1/cmtt/m/n/10.95 http : / / 247wallst . co
-m / energy-[]business / 2011 / 10 / 06 /$
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+\T1/pplx/m/n/10.95 (+20) (2014), URL []$\T1/cmtt/m/n/10.95 http : / / 247wallst
+ . com / energy-[]business / 2011 / 10 / 06 /$
  []
 
 
-Overfull \hbox (60.2418pt too wide) in paragraph at lines 45--49
+Overfull \hbox (60.2418pt too wide) in paragraph at lines 47--52
 $\T1/cmtt/m/n/10.95 solar-[]stocks-[]does-[]the-[]punishment-[]fit-[]the-[]crim
 e-[]fslr-[]spwra-[]stp-[]jaso-[]tsl-[]ldk-[]tan/$[]\T1/pplx/m/n/10.95 (-20) . 
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 51--55
-[]\T1/pplx/m/n/10.95 (+20) Solar cell hits new world record with 44.7 per-cent 
-ef-fi-ciency : Tree-
+Underfull \hbox (badness 3271) in paragraph at lines 65--70
+[]\T1/pplx/m/n/10.95 (+20) K. Ito and T. Nakazawa, Jpn. J. Appl. Phys. \T1/pplx
+/b/n/10.95 27\T1/pplx/m/n/10.95 (+20) , 2094 (1988), DOI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--55
-\T1/pplx/m/n/10.95 (+20) Hug-ger, .  URL []$\T1/cmtt/m/n/10.95 http : / / www .
- treehugger . com / solar-[]technology /$
+Underfull \hbox (badness 4479) in paragraph at lines 92--96
+[]\T1/pplx/m/n/10.95 (+20) K. Sharma and Y. Chang, J. phase equi-lib-ria \T1/pp
+lx/b/n/10.95 17\T1/pplx/m/n/10.95 (+20) , 261 (1996), DOI
  []
 
 )
@@ -771,13 +772,13 @@ Package rerunfilecheck Info: File `Interim.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
- 10685 strings out of 493921
- 167401 string characters out of 3147258
- 472902 words of memory out of 3000000
- 13525 multiletter control sequences out of 15000+200000
- 66236 words of font info for 244 fonts, out of 3000000 for 9000
+ 10703 strings out of 493921
+ 167395 string characters out of 3147258
+ 472659 words of memory out of 3000000
+ 13540 multiletter control sequences out of 15000+200000
+ 66355 words of font info for 246 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,10n,75p,931b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,10n,75p,957b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Administrator\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\ectt1095.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.en
 c}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
@@ -787,9 +788,9 @@ sers/Administrator/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/fpl/fplrc8a.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Interim.pdf (10 pages, 1216349 bytes).
+Output written on Interim.pdf (10 pages, 1218124 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  49770 words of extra memory for PDF output out of 51595 (max. 10000000)
 
