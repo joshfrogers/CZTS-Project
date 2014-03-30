@@ -9,6 +9,22 @@
 \usepackage[square, numbers, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
 \hypersetup{urlcolor=black, colorlinks=true} % Colors hyperlinks in blue - change to black if annoying
 \title{\ttitle} % Defines the thesis title - don't touch this
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{adjustbox}
+
+\renewcommand{\chaptername}{}
+\usepackage{titlesec}
+\titleformat{\chapter}[hang] 
+{\normalfont\huge\bfseries}{\chaptertitlename\thechapter}{1em}{}
+\titlespacing{\chapter}{0pt}{0pt}{10pt}% \titlespacing{<command>}{<left>}{<before-sep>}{<after-sep>}[<right>]
+
+
+
+%----------------------------------------------------------------------------------------
+%      Begin!
+%----------------------------------------------------------------------------------------
+
 
 \begin{document}
 
@@ -64,6 +80,7 @@
 
 \end{titlepage}
 
+
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
@@ -99,8 +116,8 @@ We look at the four ternary phase Diagrams of CZTS at 298k, reducing them to the
 % Uncomment the lines as you write the chapters
 
 \input{Sections/Intro}
-%\input{Sections/Chapter2} 
-%\input{Sections/Chapter3}
+\input{Sections/Method} 
+\input{Sections/Results}
 %\input{Sections/Chapter4} 
 %\input{Sections/Chapter5} 
 %\input{Sections/Chapter6} 
@@ -128,9 +145,9 @@ The acknowledgements and the people to thank go here, don't forget to include yo
 
 \bibliographystyle{apsrev} % Use the "unsrtnat" BibTeX style for formatting the Bibliography
 
-\bibliography{../Zotero} % The references (bibliography) information are stored in the file named "Bibliography.bib"
+\bibliography{../library} % The references (bibliography) information are stored in the file named "Bibliography.bib"
 
-\end{document}  
+  
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
@@ -151,3 +168,4 @@ The acknowledgements and the people to thank go here, don't forget to include yo
 
 \backmatter
 
+\end{document}

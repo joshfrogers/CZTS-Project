@@ -1,4 +1,4 @@
-\begin{thebibliography}{13}
+\begin{thebibliography}{14}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -8,7 +8,7 @@
   \def\citenamefont#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
-\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
 \providecommand{\bibinfo}[2]{#2}
 \providecommand{\eprint}[2][]{\url{#2}}
 
@@ -26,6 +26,11 @@
   \bibinfo{pages}{1421} (\bibinfo{year}{2011}), DOI
   \bibinfo{doi}{10.1016/j.solmat.2010.11.028}.
 
+\bibitem[{\citenamefont{Nelson}(2003)}]{Nelson2003}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Nelson}},
+  \emph{\bibinfo{title}{{The Physics of Solar Cells}}} (\bibinfo{year}{2003}),
+  ISBN \bibinfo{isbn}{978-1-86094-340-9}.
+
 \bibitem[{\citenamefont{Fritts}(1883)}]{Fritts1883}
 \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Fritts}}, \bibinfo{journal}{Am.
   J. Sci.} \textbf{\bibinfo{volume}{Series 3 V}}, \bibinfo{pages}{465}
@@ -37,18 +42,18 @@
   \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{183} (\bibinfo{year}{2009}),
   DOI \bibinfo{doi}{10.1002/pip.892}.
 
-\bibitem[{\citenamefont{Fraunhofer-Gesellschaft}(2014)}]{Fraunhofer-Gesellschaft2014}
-\bibinfo{author}{\bibnamefont{Fraunhofer-Gesellschaft}},
-  \emph{\bibinfo{title}{{World record solar cell with 44.7\% efficiency}}}
-  (\bibinfo{year}{2014}),
-  \urlprefix\url{http://phys.org/news/2013-09-world-solar-cell-efficiency.html}.
-
 \bibitem[{\citenamefont{Ausick}(2014)}]{Ausick2014}
 \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Ausick}},
   \emph{\bibinfo{title}{{Solar Stocks: Does the Punishment Fit the Crime?
   (FSLR, SPWRA, STP, JASO, TSL, LDK, TAN) - 24/7 Wall St.}}}
   (\bibinfo{year}{2014}),
   \urlprefix\url{http://247wallst.com/energy-business/2011/10/06/solar-stocks-does-the-punishment-fit-the-crime-fslr-spwra-stp-jaso-tsl-ldk-tan/}.
+
+\bibitem[{\citenamefont{Fraunhofer-Gesellschaft}(2014)}]{Fraunhofer-Gesellschaft2014}
+\bibinfo{author}{\bibnamefont{Fraunhofer-Gesellschaft}},
+  \emph{\bibinfo{title}{{World record solar cell with 44.7\% efficiency}}}
+  (\bibinfo{year}{2014}),
+  \urlprefix\url{http://phys.org/news/2013-09-world-solar-cell-efficiency.html}.
 
 \bibitem[{\citenamefont{Wadia}(2009)}]{Wadia2009}
 \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Wadia}},
@@ -59,7 +64,7 @@
 \bibitem[{\citenamefont{WebMineral}(2014)}]{WebMineral2014}
 \bibinfo{author}{\bibnamefont{WebMineral}}, \emph{\bibinfo{title}{{Kesterite
   Mineral Data}}} (\bibinfo{year}{2014}),
-  \urlprefix\url{http://webmineral.com/data/Kesterite.shtml\#.Ut2bhrTFJhE}.
+  \urlprefix\url{http://webmineral.com/data/Kesterite.shtml}.
 
 \bibitem[{\citenamefont{Ito and Nakazawa}(1988)}]{Ito1988}
 \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Ito}} \bibnamefont{and}
