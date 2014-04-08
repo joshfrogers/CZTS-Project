@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{35}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -42,18 +42,49 @@
   \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{183} (\bibinfo{year}{2009}),
   DOI \bibinfo{doi}{10.1002/pip.892}.
 
-\bibitem[{\citenamefont{Ausick}(2014)}]{Ausick2014}
-\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Ausick}},
-  \emph{\bibinfo{title}{{Solar Stocks: Does the Punishment Fit the Crime?
-  (FSLR, SPWRA, STP, JASO, TSL, LDK, TAN) - 24/7 Wall St.}}}
-  (\bibinfo{year}{2014}),
-  \urlprefix\url{http://247wallst.com/energy-business/2011/10/06/solar-stocks-does-the-punishment-fit-the-crime-fslr-spwra-stp-jaso-tsl-ldk-tan/}.
+\bibitem[{\citenamefont{Wesoff}()}]{EricWesoff}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Wesoff}},
+  \emph{\bibinfo{title}{{German Solar Installations Coming In at \$2.24 per
+  Watt Installed, US at \$4.44 : Greentech Media}}},
+  \urlprefix\url{https://www.greentechmedia.com/articles/read/German-Solar-Installations-Coming-in-at-2.24-Per-Watt-Installed-U.S-at-4}.
 
-\bibitem[{\citenamefont{Fraunhofer-Gesellschaft}(2014)}]{Fraunhofer-Gesellschaft2014}
-\bibinfo{author}{\bibnamefont{Fraunhofer-Gesellschaft}},
-  \emph{\bibinfo{title}{{World record solar cell with 44.7\% efficiency}}}
+\bibitem[{\citenamefont{Dimroth et~al.}(2014)\citenamefont{Dimroth, Grave,
+  Beutel, Fiedeler, Karcher, Tibbits, Oliva, Siefer, Schachtner, Wekkeli
+  et~al.}}]{ISI:000331334400001}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Dimroth}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Grave}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Beutel}},
+  \bibinfo{author}{\bibfnamefont{U.}~\bibnamefont{Fiedeler}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Karcher}},
+  \bibinfo{author}{\bibfnamefont{T.~N.~D.} \bibnamefont{Tibbits}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Oliva}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Siefer}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Schachtner}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Wekkeli}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Prog. PHOTOVOLTAICS}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{277} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{for Photovoltaics}(2014)}]{Photovoltaics2014}
+\bibinfo{author}{\bibfnamefont{N.~C.} \bibnamefont{for Photovoltaics}},
+  \emph{\bibinfo{title}{{National Center for Photovoltaics Efficiency Chart}}}
   (\bibinfo{year}{2014}),
-  \urlprefix\url{http://phys.org/news/2013-09-world-solar-cell-efficiency.html}.
+  \urlprefix\url{http://www.nrel.gov/ncpv/images/efficiency\_chart.jpg}.
+
+\bibitem[{\citenamefont{for Photovoltaics}()}]{Photovoltaics}
+\bibinfo{author}{\bibfnamefont{N.~C.} \bibnamefont{for Photovoltaics}},
+  \emph{\bibinfo{title}{{PV FAQs}}},
+  \urlprefix\url{http://www.nrel.gov/docs/fy04osti/35489.pdf}.
+
+\bibitem[{\citenamefont{Osborne}()}]{Mark}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Osborne}},
+  \emph{\bibinfo{title}{{Hanergy’s major CIGS plans unveiled}}},
+  \urlprefix\url{http://www.pv-tech.org/guest\_blog/hanergys\_major\_cigs\_plans\_unveiled\_with\_5.25gw\_of\_turnkey\_capacity}.
+
+\bibitem[{\citenamefont{Colville}()}]{FinlayColville}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Colville}},
+  \emph{\bibinfo{title}{{Hanergy Solar to start building 3GW CIGS thin-film
+  manufacturing complex in China}}},
+  \urlprefix\url{http://www.pv-tech.org/news/hanergy\_solar\_to\_start\_building\_3gw\_cigs\_thin\_film\_manufacturing\_complex\_in}.
 
 \bibitem[{\citenamefont{Wadia}(2009)}]{Wadia2009}
 \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Wadia}},
@@ -61,10 +92,21 @@
   \bibinfo{pages}{2072} (\bibinfo{year}{2009}), DOI
   \bibinfo{doi}{10.1021/es8019534}.
 
-\bibitem[{\citenamefont{WebMineral}(2014)}]{WebMineral2014}
-\bibinfo{author}{\bibnamefont{WebMineral}}, \emph{\bibinfo{title}{{Kesterite
-  Mineral Data}}} (\bibinfo{year}{2014}),
-  \urlprefix\url{http://webmineral.com/data/Kesterite.shtml}.
+\bibitem[{\citenamefont{Wang}(2011)}]{Wang2011}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Wang}}, \bibinfo{journal}{Int.
+  J. Photoenergy} \textbf{\bibinfo{volume}{2011}}, \bibinfo{pages}{1}
+  (\bibinfo{year}{2011}), DOI \bibinfo{doi}{10.1155/2011/801292}.
+
+\bibitem[{\citenamefont{Wang and Winkler}(2013)}]{Wang2013}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Wang}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Winkler}},
+  \bibinfo{journal}{Adv. Energy \ldots}  (\bibinfo{year}{2013}), DOI
+  \bibinfo{doi}{10.1002/aenm.201301465}.
+
+\bibitem[{\citenamefont{Kissin}(1989)}]{Kissin1989}
+\bibinfo{author}{\bibfnamefont{S.~A.} \bibnamefont{Kissin}},
+  \bibinfo{journal}{Can. Mineral.} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{689} (\bibinfo{year}{1989}).
 
 \bibitem[{\citenamefont{Ito and Nakazawa}(1988)}]{Ito1988}
 \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Ito}} \bibnamefont{and}
@@ -73,20 +115,137 @@
   \bibinfo{pages}{2094} (\bibinfo{year}{1988}), DOI
   \bibinfo{doi}{10.1143/JJAP.27.2094}.
 
-\bibitem[{\citenamefont{Wang and Winkler}(2013)}]{Wang2013}
-\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Wang}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Winkler}},
-  \bibinfo{journal}{Adv. Energy \ldots}  (\bibinfo{year}{2013}), DOI
-  \bibinfo{doi}{10.1002/aenm.201301465}.
+\bibitem[{\citenamefont{Schorr}(2007)}]{Schorr2007}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Schorr}},
+  \bibinfo{journal}{Thin Solid Films} \textbf{\bibinfo{volume}{515}},
+  \bibinfo{pages}{5985} (\bibinfo{year}{2007}), DOI
+  \bibinfo{doi}{10.1016/j.tsf.2006.12.100}.
 
-\bibitem[{\citenamefont{Olekseyuk et~al.}(2004)\citenamefont{Olekseyuk,
-  Dudchak, and Piskach}}]{Olekseyuk2004}
-\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Olekseyuk}},
-  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Dudchak}}, \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Piskach}},
-  \bibinfo{journal}{J. Alloys Compd.} \textbf{\bibinfo{volume}{368}},
-  \bibinfo{pages}{135} (\bibinfo{year}{2004}), DOI
-  \bibinfo{doi}{10.1016/j.jallcom.2003.08.084}.
+\bibitem[{\citenamefont{Todorov et~al.}(2010)\citenamefont{Todorov, Reuter, and
+  Mitzi}}]{Todorov2010}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Todorov}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Reuter}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Mitzi}},
+  \bibinfo{journal}{Adv. Mater.} \textbf{\bibinfo{volume}{22}},
+  \bibinfo{pages}{E156} (\bibinfo{year}{2010}), DOI
+  \bibinfo{doi}{10.1002/adma.200904155}.
+
+\bibitem[{\citenamefont{Scragg et~al.}(2008)\citenamefont{Scragg, Dale, and
+  Peter}}]{Scragg2008}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Scragg}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Dale}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Peter}},
+  \bibinfo{journal}{Phys. status solidi \ldots} \textbf{\bibinfo{volume}{245}},
+  \bibinfo{pages}{1772} (\bibinfo{year}{2008}), DOI
+  \bibinfo{doi}{10.1002/pssb.200879539}.
+
+\bibitem[{\citenamefont{Kittel}(2004)}]{Kittel2004}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Kittel}},
+  \emph{\bibinfo{title}{{Introduction to Solid State Physics}}}
+  (\bibinfo{publisher}{John Wiley \&amp; Sons; 8th Edition edition},
+  \bibinfo{year}{2004}), ISBN \bibinfo{isbn}{047141526X}.
+
+\bibitem[{\citenamefont{Askeland et~al.}(2010)\citenamefont{Askeland, Fulay,
+  and Wright}}]{Askeland2010}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Askeland}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Fulay}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Wright}},
+  \emph{\bibinfo{title}{{The Science and Engineering of Materials}}}
+  (\bibinfo{publisher}{Cengage Learning}, \bibinfo{year}{2010}), ISBN
+  \bibinfo{isbn}{0495296023}.
+
+\bibitem[{\citenamefont{Ichimura and Nakashima}(2009)}]{JJAP.48.090202}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ichimura}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Nakashima}},
+  \bibinfo{journal}{Jpn. J. Appl. Phys.} \textbf{\bibinfo{volume}{48}},
+  \bibinfo{pages}{90202} (\bibinfo{year}{2009}), DOI
+  \bibinfo{doi}{10.7567/JJAP.48.090202}.
+
+\bibitem[{\citenamefont{Katagiri et~al.}(2001)\citenamefont{Katagiri, Saitoh,
+  Washio, Shinohara, Kurumadani, and Miyajima}}]{Katagiri2001}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Katagiri}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Saitoh}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Washio}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Shinohara}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Kurumadani}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Miyajima}},
+  \bibinfo{journal}{Sol. Energy Mater. Sol. Cells}
+  \textbf{\bibinfo{volume}{65}}, \bibinfo{pages}{141} (\bibinfo{year}{2001}),
+  DOI \bibinfo{doi}{10.1016/S0927-0248(00)00088-X}.
+
+\bibitem[{\citenamefont{Barin et~al.}(1977)\citenamefont{Barin, Knacke, and
+  Kubaschewski}}]{Barin1977}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Barin}},
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Knacke}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Kubaschewski}}
+  (\bibinfo{year}{1977}).
+
+\bibitem[{\citenamefont{Kerr and Lide}(2000)}]{Haynes2013}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kerr}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Lide}}, \bibinfo{journal}{CRC
+  Handb. Chem. Physics, 81st ed., \ldots}  (\bibinfo{year}{2000}).
+
+\bibitem[{\citenamefont{Puigdomenech and Tax\'{e}n}(2000)}]{Puigdomenech2000}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Puigdomenech}}
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Tax\'{e}n}},
+  \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{Svensk
+  Karnbranslehantering}, \bibinfo{address}{Stockholm} (\bibinfo{year}{2000}).
+
+\bibitem[{\citenamefont{Hiroi}(1986)}]{Hiroi1986}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Hiroi}}, \bibinfo{journal}{J.
+  Appl. Electrochem.} \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{431}
+  (\bibinfo{year}{1986}), DOI \bibinfo{doi}{10.1007/BF01008854}.
+
+\bibitem[{\citenamefont{Potter}(1977)}]{Potter1977}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Potter}},
+  \bibinfo{journal}{Econ. Geol.} \textbf{\bibinfo{volume}{72}},
+  \bibinfo{pages}{1524} (\bibinfo{year}{1977}), DOI
+  \bibinfo{doi}{10.2113/gsecongeo.72.8.1524}.
+
+\bibitem[{\citenamefont{Wagman et~al.}(1969)\citenamefont{Wagman, Evans,
+  Parker, Halow, Bailey, and Schumm}}]{WagmanDonaldD1969}
+\bibinfo{author}{\bibfnamefont{D.~D.} \bibnamefont{Wagman}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Evans}},
+  \bibinfo{author}{\bibfnamefont{V.}~\bibnamefont{Parker}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Halow}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Bailey}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Schumm}},
+  \emph{\bibinfo{title}{{Selected values of chemical thermodynamic properties
+  [Part 4] Tables for elements 35-53 in the standard order of arrangement}}}
+  (\bibinfo{publisher}{National Bureau of Standards}, \bibinfo{year}{1969}),
+  \bibinfo{edition}{nbs techni} ed.
+
+\bibitem[{\citenamefont{Wagman}(1982)}]{Wagman1982}
+\bibinfo{author}{\bibfnamefont{D.~D.} \bibnamefont{Wagman}},
+  \emph{\bibinfo{title}{{The NBS tables of chemical thermodynamic properties:
+  selected values for inorganic and C1 and C2 organic substances in SI units}}}
+  (\bibinfo{publisher}{American Chemical Society and the American Institute of
+  Physics for the National Bureau of Standards}, \bibinfo{address}{New York;
+  Washington, D.C.}, \bibinfo{year}{1982}), ISBN \bibinfo{isbn}{0883184176}.
+
+\bibitem[{\citenamefont{Hellwege and Madelung}(1984)}]{Hellwege1984}
+\bibinfo{author}{\bibfnamefont{K.-H.} \bibnamefont{Hellwege}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Madelung}},
+  \emph{\bibinfo{title}{{Landolt Bornstein: Numerical Data and Function
+  Relationships in Science and Technology. Group III: crystal and Solid State
+  Physics, vol. 17 - Semiconductors Subvolume d: Technology of II-VI and
+  Non-Tetrahedrally Bonded Compounds,}}} (\bibinfo{publisher}{Springer-Verlag},
+  \bibinfo{address}{Berlin}, \bibinfo{year}{1984}).
+
+\bibitem[{\citenamefont{Jackson and Helgeson}(1985)}]{Jackson1985}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Jackson}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Helgeson}},
+  \bibinfo{journal}{Econ. Geol.} \textbf{\bibinfo{volume}{80}},
+  \bibinfo{pages}{1365} (\bibinfo{year}{1985}), DOI
+  \bibinfo{doi}{10.2113/gsecongeo.80.5.1365}.
+
+\bibitem[{\citenamefont{{Kubaschewski , Catterall, John
+  Ashley.,}}(1956)}]{KubaschewskiCatterallJohnAshley.1956}
+\bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{{Kubaschewski , Catterall, John
+  Ashley.,}}}, \emph{\bibinfo{title}{{Thermochemical data of alloys}}}
+  (\bibinfo{publisher}{Pergamon Press}, \bibinfo{address}{London; New York},
+  \bibinfo{year}{1956}).
 
 \bibitem[{\citenamefont{Hay and Pharr}(2000)}]{Hay2000}
 \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Hay}} \bibnamefont{and}

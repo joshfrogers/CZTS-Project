@@ -1,0 +1,176 @@
+\begin{thebibliography}{23}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Morton}(2006)}]{Morton2006}
+\bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Morton}},
+  \bibinfo{journal}{Nat.} \textbf{\bibinfo{volume}{443}}, \bibinfo{pages}{19}
+  (\bibinfo{year}{2006}), DOI \bibinfo{doi}{10.1038/443019a}.
+
+\bibitem[{\citenamefont{Mitzi et~al.}(2011)\citenamefont{Mitzi, Gunawan, and
+  Todorov}}]{Mitzi2011}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Mitzi}},
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Gunawan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Todorov}},
+  \bibinfo{journal}{\ldots Mater. Sol. Cells} \textbf{\bibinfo{volume}{95}},
+  \bibinfo{pages}{1421} (\bibinfo{year}{2011}), DOI
+  \bibinfo{doi}{10.1016/j.solmat.2010.11.028}.
+
+\bibitem[{\citenamefont{Nelson}(2003)}]{Nelson2003}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Nelson}},
+  \emph{\bibinfo{title}{{The Physics of Solar Cells}}} (\bibinfo{year}{2003}),
+  ISBN \bibinfo{isbn}{978-1-86094-340-9}.
+
+\bibitem[{\citenamefont{Fritts}(1883)}]{Fritts1883}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Fritts}}, \bibinfo{journal}{Am.
+  J. Sci.} \textbf{\bibinfo{volume}{Series 3 V}}, \bibinfo{pages}{465}
+  (\bibinfo{year}{1883}), DOI \bibinfo{doi}{10.2475/ajs.s3-26.156.465}.
+
+\bibitem[{\citenamefont{Green}(2009)}]{Green2009a}
+\bibinfo{author}{\bibfnamefont{M.~A.} \bibnamefont{Green}},
+  \bibinfo{journal}{Prog. Photovoltaics Res. Appl.}
+  \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{183} (\bibinfo{year}{2009}),
+  DOI \bibinfo{doi}{10.1002/pip.892}.
+
+\bibitem[{\citenamefont{Wesoff}()}]{EricWesoff}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Wesoff}},
+  \emph{\bibinfo{title}{{German Solar Installations Coming In at \$2.24 per
+  Watt Installed, US at \$4.44 : Greentech Media}}},
+  \urlprefix\url{https://www.greentechmedia.com/articles/read/German-Solar-Installations-Coming-in-at-2.24-Per-Watt-Installed-U.S-at-4}.
+
+\bibitem[{\citenamefont{Dimroth et~al.}(2014)\citenamefont{Dimroth, Grave,
+  Beutel, Fiedeler, Karcher, Tibbits, Oliva, Siefer, Schachtner, Wekkeli
+  et~al.}}]{ISI:000331334400001}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Dimroth}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Grave}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Beutel}},
+  \bibinfo{author}{\bibfnamefont{U.}~\bibnamefont{Fiedeler}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Karcher}},
+  \bibinfo{author}{\bibfnamefont{T.~N.~D.} \bibnamefont{Tibbits}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Oliva}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Siefer}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Schachtner}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Wekkeli}},
+  \bibnamefont{et~al.}, \bibinfo{journal}{Prog. PHOTOVOLTAICS}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{277} (\bibinfo{year}{2014}).
+
+\bibitem[{\citenamefont{for Photovoltaics}(2014)}]{Photovoltaics2014}
+\bibinfo{author}{\bibfnamefont{N.~C.} \bibnamefont{for Photovoltaics}},
+  \emph{\bibinfo{title}{{National Center for Photovoltaics Efficiency Chart}}}
+  (\bibinfo{year}{2014}),
+  \urlprefix\url{http://www.nrel.gov/ncpv/images/efficiency\_chart.jpg}.
+
+\bibitem[{\citenamefont{for Photovoltaics}()}]{Photovoltaics}
+\bibinfo{author}{\bibfnamefont{N.~C.} \bibnamefont{for Photovoltaics}},
+  \emph{\bibinfo{title}{{PV FAQs}}},
+  \urlprefix\url{http://www.nrel.gov/docs/fy04osti/35489.pdf}.
+
+\bibitem[{\citenamefont{Osborne}()}]{Mark}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Osborne}},
+  \emph{\bibinfo{title}{{Hanergy’s major CIGS plans unveiled}}},
+  \urlprefix\url{http://www.pv-tech.org/guest\_blog/hanergys\_major\_cigs\_plans\_unveiled\_with\_5.25gw\_of\_turnkey\_capacity}.
+
+\bibitem[{\citenamefont{Colville}()}]{FinlayColville}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Colville}},
+  \emph{\bibinfo{title}{{Hanergy Solar to start building 3GW CIGS thin-film
+  manufacturing complex in China}}},
+  \urlprefix\url{http://www.pv-tech.org/news/hanergy\_solar\_to\_start\_building\_3gw\_cigs\_thin\_film\_manufacturing\_complex\_in}.
+
+\bibitem[{\citenamefont{Wadia}(2009)}]{Wadia2009}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Wadia}},
+  \bibinfo{journal}{Environ. Sci. \ldots} \textbf{\bibinfo{volume}{43}},
+  \bibinfo{pages}{2072} (\bibinfo{year}{2009}), DOI
+  \bibinfo{doi}{10.1021/es8019534}.
+
+\bibitem[{\citenamefont{Wang}(2011)}]{Wang2011}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Wang}}, \bibinfo{journal}{Int.
+  J. Photoenergy} \textbf{\bibinfo{volume}{2011}}, \bibinfo{pages}{1}
+  (\bibinfo{year}{2011}), DOI \bibinfo{doi}{10.1155/2011/801292}.
+
+\bibitem[{\citenamefont{Wang and Winkler}(2013)}]{Wang2013}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Wang}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Winkler}},
+  \bibinfo{journal}{Adv. Energy \ldots}  (\bibinfo{year}{2013}), DOI
+  \bibinfo{doi}{10.1002/aenm.201301465}.
+
+\bibitem[{\citenamefont{Kissin}(1989)}]{Kissin1989}
+\bibinfo{author}{\bibfnamefont{S.~A.} \bibnamefont{Kissin}},
+  \bibinfo{journal}{Can. Mineral.} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{689} (\bibinfo{year}{1989}).
+
+\bibitem[{\citenamefont{Ito and Nakazawa}(1988)}]{Ito1988}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Ito}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Nakazawa}},
+  \bibinfo{journal}{Jpn. J. Appl. Phys.} \textbf{\bibinfo{volume}{27}},
+  \bibinfo{pages}{2094} (\bibinfo{year}{1988}), DOI
+  \bibinfo{doi}{10.1143/JJAP.27.2094}.
+
+\bibitem[{\citenamefont{Schorr}(2007)}]{Schorr2007}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Schorr}},
+  \bibinfo{journal}{Thin Solid Films} \textbf{\bibinfo{volume}{515}},
+  \bibinfo{pages}{5985} (\bibinfo{year}{2007}), DOI
+  \bibinfo{doi}{10.1016/j.tsf.2006.12.100}.
+
+\bibitem[{\citenamefont{Todorov et~al.}(2010)\citenamefont{Todorov, Reuter, and
+  Mitzi}}]{Todorov2010}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Todorov}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Reuter}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Mitzi}},
+  \bibinfo{journal}{Adv. Mater.} \textbf{\bibinfo{volume}{22}},
+  \bibinfo{pages}{E156} (\bibinfo{year}{2010}), DOI
+  \bibinfo{doi}{10.1002/adma.200904155}.
+
+\bibitem[{\citenamefont{Scragg et~al.}(2008)\citenamefont{Scragg, Dale, and
+  Peter}}]{Scragg2008}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Scragg}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Dale}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Peter}},
+  \bibinfo{journal}{Phys. status solidi \ldots} \textbf{\bibinfo{volume}{245}},
+  \bibinfo{pages}{1772} (\bibinfo{year}{2008}), DOI
+  \bibinfo{doi}{10.1002/pssb.200879539}.
+
+\bibitem[{\citenamefont{Kittel}(2004)}]{Kittel2004}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Kittel}},
+  \emph{\bibinfo{title}{{Introduction to Solid State Physics}}}
+  (\bibinfo{publisher}{John Wiley \&amp; Sons; 8th Edition edition},
+  \bibinfo{year}{2004}), ISBN \bibinfo{isbn}{047141526X}.
+
+\bibitem[{\citenamefont{Askeland et~al.}(2010)\citenamefont{Askeland, Fulay,
+  and Wright}}]{Askeland2010}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Askeland}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Fulay}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Wright}},
+  \emph{\bibinfo{title}{{The Science and Engineering of Materials}}}
+  (\bibinfo{publisher}{Cengage Learning}, \bibinfo{year}{2010}), ISBN
+  \bibinfo{isbn}{0495296023}.
+
+\bibitem[{\citenamefont{Ichimura and Nakashima}(2009)}]{JJAP.48.090202}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ichimura}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Nakashima}},
+  \bibinfo{journal}{Jpn. J. Appl. Phys.} \textbf{\bibinfo{volume}{48}},
+  \bibinfo{pages}{90202} (\bibinfo{year}{2009}), DOI
+  \bibinfo{doi}{10.7567/JJAP.48.090202}.
+
+\bibitem[{\citenamefont{Katagiri et~al.}(2001)\citenamefont{Katagiri, Saitoh,
+  Washio, Shinohara, Kurumadani, and Miyajima}}]{Katagiri2001}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Katagiri}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Saitoh}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Washio}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Shinohara}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Kurumadani}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Miyajima}},
+  \bibinfo{journal}{Sol. Energy Mater. Sol. Cells}
+  \textbf{\bibinfo{volume}{65}}, \bibinfo{pages}{141} (\bibinfo{year}{2001}),
+  DOI \bibinfo{doi}{10.1016/S0927-0248(00)00088-X}.
+
+\end{thebibliography}

@@ -2,19 +2,32 @@
 \vspace {1em}
 \contentsline {chapter}{Contents}{ii}{dummy.2}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.4}
-\contentsline {section}{\numberline {1.1}Main Section 1}{1}{section.5}
-\contentsline {subsection}{\numberline {1.1.1}test}{2}{subsection.6}
-\contentsline {subsection}{\numberline {1.1.2}Subsection 2}{2}{subsection.7}
-\contentsline {section}{\numberline {1.2}Theory}{2}{section.8}
-\contentsline {chapter}{\numberline {2}Method}{4}{chapter.12}
-\contentsline {section}{\numberline {2.1}Determination of Ternary Phase Diagrams}{4}{section.13}
-\contentsline {subsection}{\numberline {2.1.1}Method of Tie-Line Removal}{5}{subsection.14}
-\contentsline {subsection}{\numberline {2.1.2}Determination of Quaternary Phase Diagram}{6}{subsection.22}
-\contentsline {chapter}{\numberline {3}Results}{8}{chapter.24}
-\contentsline {section}{\numberline {3.1}Ternary Diagrams}{8}{section.25}
-\contentsline {section}{\numberline {3.2}Quaternary Diagram}{9}{section.27}
-\contentsline {chapter}{Acknowledgements}{9}{dummy.29}
+\contentsline {section}{\numberline {1.1}History \& Background}{1}{section.5}
+\contentsline {subsection}{\numberline {1.1.1}Thin Film}{2}{subsection.6}
+\contentsline {section}{\numberline {1.2}CZTS}{2}{section.7}
+\contentsline {subsection}{\numberline {1.2.1}Complexity}{3}{subsection.8}
+\contentsline {section}{\numberline {1.3}Methods Of Production}{3}{section.9}
+\contentsline {subsection}{\numberline {1.3.1}Vacuum Methods}{3}{subsection.10}
+\contentsline {subsubsection}{\numberline {1.3.1.1}Sputtering}{3}{subsubsection.11}
+\contentsline {subsubsection}{\numberline {1.3.1.2}Evaporation}{4}{subsubsection.13}
+\contentsline {subsection}{\numberline {1.3.2}Non-Vacuum Methods}{5}{subsection.14}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Electrodeposition}{5}{subsubsection.15}
+\contentsline {section}{\numberline {1.4}Theory}{5}{section.16}
+\contentsline {subsection}{\numberline {1.4.1}Photovoltaic Effect}{5}{subsection.17}
+\contentsline {subsection}{\numberline {1.4.2}P-N Junctions}{6}{subsection.18}
+\contentsline {chapter}{\numberline {2}Method}{7}{chapter.19}
+\contentsline {section}{\numberline {2.1}Initial Data}{7}{section.20}
+\contentsline {section}{\numberline {2.2}Ternary Phase Diagrams}{7}{section.21}
+\contentsline {subsection}{\numberline {2.2.1}Tie-Lines}{7}{subsection.22}
+\contentsline {subsection}{\numberline {2.2.2}Method of Tie-Line Removal}{8}{subsection.23}
+\contentsline {subsection}{\numberline {2.2.3}Examples}{8}{subsection.24}
+\contentsline {section}{\numberline {2.3}Quaternary Phase Diagrams}{9}{section.30}
+\contentsline {section}{\numberline {2.4}Quasi-Ternary Phase Diagrams}{10}{section.32}
+\contentsline {chapter}{\numberline {3}Results}{11}{chapter.33}
+\contentsline {section}{\numberline {3.1}Ternary Diagrams}{11}{section.34}
+\contentsline {subsection}{\numberline {3.1.1}Quaternary Diagram}{11}{subsection.36}
+\contentsline {section}{\numberline {3.2}Quasi-Ternary Diagrams}{12}{section.38}
+\contentsline {chapter}{Acknowledgements}{12}{dummy.40}
 \vspace {1em}
-\vspace {2em}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{11}{appendix.31}
-\vspace {2em}
+\vspace {1em}
+\vspace {1em}

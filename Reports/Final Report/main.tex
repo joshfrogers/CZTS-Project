@@ -12,12 +12,21 @@
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{adjustbox}
-
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{lscape}
 \renewcommand{\chaptername}{}
+\usepackage{listing}
 \usepackage{titlesec}
+\usepackage{afterpage}
 \titleformat{\chapter}[hang] 
 {\normalfont\huge\bfseries}{\chaptertitlename\thechapter}{1em}{}
-\titlespacing{\chapter}{0pt}{0pt}{10pt}% \titlespacing{<command>}{<left>}{<before-sep>}{<after-sep>}[<right>]
+\titlespacing{\chapter}
+	{0cm}% left
+    {-2cm}% before
+    {0cm}% after% \titlespacing{<command>}{<left>}{<before-sep>}{<after-sep>}[<right>]
+\setlength{\bibsep}{0.0pt}
+
 
 
 
@@ -47,7 +56,6 @@
 
 \begin{titlepage}
 \begin{center}
-
 \textsc{\LARGE \univname}\\[1.5cm] % University name
 
 \HRule \\[0.4cm] % Horizontal line
@@ -89,7 +97,9 @@
 
 \abstract{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
-We look at the four ternary phase Diagrams of CZTS at 298k, reducing them to their simplest form, from this we construct a three dimensional quaternary phase diagram in order to find the thermodynamic `location' of CZTS.
+This report looks at the four ternary phase Diagrams of CZTS at 298K, reducing them to their simplest form, from this we construct a three dimensional quaternary phase diagram in order to find the thermodynamic 'location' of CZTS.
+
+EXPAND THIS FOR FINAL DRAFT, GIVE RATIONALE, BRIEF SUMMARY OF METHOD AND  KEY FINDINGS.
 }
 
 \clearpage % Start a new page
@@ -152,19 +162,26 @@ The acknowledgements and the people to thank go here, don't forget to include yo
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
 %----------------------------------------------------------------------------------------
+\titleformat{\chapter}[hang]%
+   {\raggedright\huge\bfseries}% global formatting (number and title)
+   {\thechapter}% label: number and its formatting
+   {1em}% spacing between number and title
+   {}% optional (content between number and title)
 
-\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
 \appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
 
 % Include the appendices of the thesis as separate files from the Appendices folder
 % Uncomment the lines as you write the Appendices
 
-\input{Appendices/AppendixA}
-%\input{Appendices/AppendixB}
-%\input{Appendices/AppendixC}
+% \input{Appendices/AppendixA}
+% \input{Appendices/AppendixB}
+% \input{Appendices/AppendixC}
 
-\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents, for aesthetics
 
 \backmatter
 
