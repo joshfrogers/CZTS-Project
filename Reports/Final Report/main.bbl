@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{29}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -75,6 +75,13 @@
   \emph{\bibinfo{title}{{PV FAQs}}},
   \urlprefix\url{http://www.nrel.gov/docs/fy04osti/35489.pdf}.
 
+\bibitem[{\citenamefont{Siebentritt and Rau}(2006)}]{Siebentritt2006}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Siebentritt}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{U.}~\bibnamefont{Rau}},
+  \emph{\bibinfo{title}{{Wide Gap Chalcopyrites}}}
+  (\bibinfo{publisher}{Springer}, \bibinfo{address}{Berlin},
+  \bibinfo{year}{2006}).
+
 \bibitem[{\citenamefont{Osborne}()}]{Mark}
 \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Osborne}},
   \emph{\bibinfo{title}{{Hanergy’s major CIGS plans unveiled}}},
@@ -85,6 +92,13 @@
   \emph{\bibinfo{title}{{Hanergy Solar to start building 3GW CIGS thin-film
   manufacturing complex in China}}},
   \urlprefix\url{http://www.pv-tech.org/news/hanergy\_solar\_to\_start\_building\_3gw\_cigs\_thin\_film\_manufacturing\_complex\_in}.
+
+\bibitem[{\citenamefont{Feltrin and Freundlich}(2008)}]{Feltrin2008}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Feltrin}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Freundlich}},
+  \bibinfo{journal}{Renew. Energy} \textbf{\bibinfo{volume}{33}},
+  \bibinfo{pages}{180} (\bibinfo{year}{2008}), DOI
+  \bibinfo{doi}{10.1016/j.renene.2007.05.024}.
 
 \bibitem[{\citenamefont{Wadia}(2009)}]{Wadia2009}
 \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Wadia}},
@@ -120,6 +134,23 @@
   \bibinfo{journal}{Thin Solid Films} \textbf{\bibinfo{volume}{515}},
   \bibinfo{pages}{5985} (\bibinfo{year}{2007}), DOI
   \bibinfo{doi}{10.1016/j.tsf.2006.12.100}.
+
+\bibitem[{\citenamefont{Moh}(1975)}]{moh1975}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Moh}}, \bibinfo{journal}{Chemie
+  der Erde} \textbf{\bibinfo{volume}{34}} (\bibinfo{year}{1975}).
+
+\bibitem[{\citenamefont{Scragg}(2011)}]{scragg2011copper}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Scragg}},
+  \emph{\bibinfo{title}{{Copper zinc tin sulfide thin films for photovoltaics
+  synthesis and characterisation by electrochemical methods : doctoral thesis
+  accepted by the University of Bath, UK}}} (\bibinfo{publisher}{Springer},
+  \bibinfo{address}{Heidelberg}, \bibinfo{year}{2011}), ISBN
+  \bibinfo{isbn}{978-3-642-22918-3}.
+
+\bibitem[{\citenamefont{Wikipedia}(2014)}]{wikipedia2014}
+\bibinfo{author}{\bibnamefont{Wikipedia}}, \emph{\bibinfo{title}{{Sputter
+  Deposition}}} (\bibinfo{year}{2014}),
+  \urlprefix\url{http://en.wikipedia.org/wiki/File:Sputtering.gif}.
 
 \bibitem[{\citenamefont{Todorov et~al.}(2010)\citenamefont{Todorov, Reuter, and
   Mitzi}}]{Todorov2010}
@@ -173,89 +204,13 @@
   \textbf{\bibinfo{volume}{65}}, \bibinfo{pages}{141} (\bibinfo{year}{2001}),
   DOI \bibinfo{doi}{10.1016/S0927-0248(00)00088-X}.
 
-\bibitem[{\citenamefont{Barin et~al.}(1977)\citenamefont{Barin, Knacke, and
-  Kubaschewski}}]{Barin1977}
-\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Barin}},
-  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Knacke}}, \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Kubaschewski}}
-  (\bibinfo{year}{1977}).
-
-\bibitem[{\citenamefont{Kerr and Lide}(2000)}]{Haynes2013}
-\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kerr}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Lide}}, \bibinfo{journal}{CRC
-  Handb. Chem. Physics, 81st ed., \ldots}  (\bibinfo{year}{2000}).
-
-\bibitem[{\citenamefont{Puigdomenech and Tax\'{e}n}(2000)}]{Puigdomenech2000}
-\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Puigdomenech}}
-  \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Tax\'{e}n}},
-  \bibinfo{type}{Tech. Rep.}, \bibinfo{institution}{Svensk
-  Karnbranslehantering}, \bibinfo{address}{Stockholm} (\bibinfo{year}{2000}).
-
-\bibitem[{\citenamefont{Hiroi}(1986)}]{Hiroi1986}
-\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Hiroi}}, \bibinfo{journal}{J.
-  Appl. Electrochem.} \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{431}
-  (\bibinfo{year}{1986}), DOI \bibinfo{doi}{10.1007/BF01008854}.
-
-\bibitem[{\citenamefont{Potter}(1977)}]{Potter1977}
-\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Potter}},
-  \bibinfo{journal}{Econ. Geol.} \textbf{\bibinfo{volume}{72}},
-  \bibinfo{pages}{1524} (\bibinfo{year}{1977}), DOI
-  \bibinfo{doi}{10.2113/gsecongeo.72.8.1524}.
-
-\bibitem[{\citenamefont{Wagman et~al.}(1969)\citenamefont{Wagman, Evans,
-  Parker, Halow, Bailey, and Schumm}}]{WagmanDonaldD1969}
-\bibinfo{author}{\bibfnamefont{D.~D.} \bibnamefont{Wagman}},
-  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Evans}},
-  \bibinfo{author}{\bibfnamefont{V.}~\bibnamefont{Parker}},
-  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Halow}},
-  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Bailey}}, \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Schumm}},
-  \emph{\bibinfo{title}{{Selected values of chemical thermodynamic properties
-  [Part 4] Tables for elements 35-53 in the standard order of arrangement}}}
-  (\bibinfo{publisher}{National Bureau of Standards}, \bibinfo{year}{1969}),
-  \bibinfo{edition}{nbs techni} ed.
-
-\bibitem[{\citenamefont{Wagman}(1982)}]{Wagman1982}
-\bibinfo{author}{\bibfnamefont{D.~D.} \bibnamefont{Wagman}},
-  \emph{\bibinfo{title}{{The NBS tables of chemical thermodynamic properties:
-  selected values for inorganic and C1 and C2 organic substances in SI units}}}
-  (\bibinfo{publisher}{American Chemical Society and the American Institute of
-  Physics for the National Bureau of Standards}, \bibinfo{address}{New York;
-  Washington, D.C.}, \bibinfo{year}{1982}), ISBN \bibinfo{isbn}{0883184176}.
-
-\bibitem[{\citenamefont{Hellwege and Madelung}(1984)}]{Hellwege1984}
-\bibinfo{author}{\bibfnamefont{K.-H.} \bibnamefont{Hellwege}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Madelung}},
-  \emph{\bibinfo{title}{{Landolt Bornstein: Numerical Data and Function
-  Relationships in Science and Technology. Group III: crystal and Solid State
-  Physics, vol. 17 - Semiconductors Subvolume d: Technology of II-VI and
-  Non-Tetrahedrally Bonded Compounds,}}} (\bibinfo{publisher}{Springer-Verlag},
-  \bibinfo{address}{Berlin}, \bibinfo{year}{1984}).
-
-\bibitem[{\citenamefont{Jackson and Helgeson}(1985)}]{Jackson1985}
-\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Jackson}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Helgeson}},
-  \bibinfo{journal}{Econ. Geol.} \textbf{\bibinfo{volume}{80}},
-  \bibinfo{pages}{1365} (\bibinfo{year}{1985}), DOI
-  \bibinfo{doi}{10.2113/gsecongeo.80.5.1365}.
-
-\bibitem[{\citenamefont{{Kubaschewski , Catterall, John
-  Ashley.,}}(1956)}]{KubaschewskiCatterallJohnAshley.1956}
-\bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{{Kubaschewski , Catterall, John
-  Ashley.,}}}, \emph{\bibinfo{title}{{Thermochemical data of alloys}}}
-  (\bibinfo{publisher}{Pergamon Press}, \bibinfo{address}{London; New York},
-  \bibinfo{year}{1956}).
-
-\bibitem[{\citenamefont{Hay and Pharr}(2000)}]{Hay2000}
-\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Hay}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Pharr}},
-  \bibinfo{journal}{ASM Int. Mater. Park. OH}  (\bibinfo{year}{2000}).
-
-\bibitem[{\citenamefont{Sharma and Chang}(1996)}]{Sharma1996}
-\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Sharma}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Chang}}, \bibinfo{journal}{J.
-  phase equilibria} \textbf{\bibinfo{volume}{17}}, \bibinfo{pages}{261}
-  (\bibinfo{year}{1996}), DOI \bibinfo{doi}{10.1007/BF02648496}.
+\bibitem[{\citenamefont{Olekseyuk et~al.}(2004)\citenamefont{Olekseyuk,
+  Dudchak, and Piskach}}]{Olekseyuk2004}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Olekseyuk}},
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Dudchak}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Piskach}},
+  \bibinfo{journal}{J. Alloys Compd.} \textbf{\bibinfo{volume}{368}},
+  \bibinfo{pages}{135} (\bibinfo{year}{2004}), DOI
+  \bibinfo{doi}{10.1016/j.jallcom.2003.08.084}.
 
 \end{thebibliography}
